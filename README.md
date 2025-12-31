@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vaidika Kaul</h1>
 
 <p align="center">
-  <a href="[https://github.com/vaidika1410](https://github.com/vaidika1410)">
+  <a href="https://github.com/vaidika1410">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2600&pause=900&color=14B8A6&center=true&vCenter=true&width=620&lines=Full-Stack+Developer;AI%2FML+Research+Enthusiast;SaaS+Developer;User-Focused+Product+Builder" />
   </a>
 </p>
@@ -24,10 +24,10 @@ including dedicated support for <b>night-focused productivity patterns</b>.
 </p>
 
 <p>
-  <a href="[https://your-noctura-live-link](https://noctura-app.onrender.com)">
+  <a href="https://noctura-app.onrender.com">
     <img src="https://img.shields.io/badge/Live-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="[https://github.com/your-noctura-repo](https://github.com/vaidika1410/noctura-app)">
+  <a href="https://github.com/vaidika1410/noctura-app">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -57,7 +57,7 @@ to establish a foundation for <b>secure, scalable observability pipelines</b>.
 </p>
 
 <p>
-  <a href="[https://github.com/your-anomate-repo](https://github.com/Anomate-stream/anomate-stream)">
+  <a href="https://github.com/Anomate-stream/anomate-stream">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -87,10 +87,10 @@ and translating experimental results into <b>clear, frontend-consumable visual i
 </p>
 
 <p>
-  <a href="[https://github.com/GautamJagthap/Satellite-Image-Steganography](https://github.com/GautamJagthap/Satellite-Image-Steganography)">
+  <a href="https://github.com/GautamJagthap/Satellite-Image-Steganography">
     <img src="[https://img.shields.io/badge/Research-3B82F6?style=for-the-badge&logo=readthedocs&logoColor=white](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white)" />
   </a>
-  <a href="[https://github.com/your-stego-repo](https://github.com/vaidika1410/Satellite-Image-Steganography-Model)">
+  <a href="https://github.com/vaidika1410/Satellite-Image-Steganography-Model">
     <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -172,7 +172,7 @@ and translating experimental results into <b>clear, frontend-consumable visual i
 ## 🤝 Let’s Connect
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/vaidika-kaul-321b22316/](https://www.linkedin.com/in/vaidika-kaul-321b22316/)">
+  <a href="https://www.linkedin.com/in/vaidika-kaul-321b22316/">
     <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/vaidika1410">
