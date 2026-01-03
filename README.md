@@ -175,7 +175,7 @@ and translating experimental results into <b>clear, frontend-consumable visual i
   <a href="https://www.linkedin.com/in/vaidika-kaul-321b22316/">
     <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/vaidika1410">
+  <a href="https://vaidikadevs.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
